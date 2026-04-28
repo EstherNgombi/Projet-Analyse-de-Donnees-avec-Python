@@ -1,0 +1,111 @@
+ ⛽ Analyse de la consommation de carburant – Wepoc Technologie
+
+ 🧠 Contexte du projet
+
+La société Wepoc Technologie souhaite analyser la consommation de carburant de ses véhicules afin d’assurer un meilleur suivi des dépenses.
+Chaque chauffeur soumet des factures après mission. L’objectif est de centraliser ces données et de produire une analyse permettant d’optimiser
+la gestion des coûts liés au carburant.
+
+---
+
+ 🎯 Objectifs
+
+* Construire une base de données à partir des factures de carburant
+* Suivre la consommation mensuelle par véhicule / chauffeur
+* Analyser l’évolution des prix du carburant (série temporelle)
+* Aider à la prise de décision (réduction ou optimisation des coûts)
+
+---
+
+ 📊 Données utilisées
+
+Les données proviennent de factures de carburant et incluent :
+
+* Date de la transaction
+* Montant du carburant
+* Quantité
+* Chauffeur
+* Véhicule
+* Prix unitaire
+
+---
+
+ ⚙️ Méthodologie
+
+ 1. Création de la base de données
+
+* Définition des tables (chauffeurs, véhicules, transactions…)
+* Structuration des données
+
+ 2. Intégration des données
+
+* Extraction des données depuis les factures
+* Insertion dans la base de données
+
+ 3. Export des données
+
+* Export en fichier CSV pour analyse
+
+ 4. Analyse des données (Python)
+
+* Analyse univariée (distribution des variables)
+* Analyse bivariée (relations entre variables)
+* Visualisation des données
+
+ 5. Analyse en série temporelle
+
+* Étude de l’évolution mensuelle des prix du carburant
+* Identification des tendances
+
+---
+
+ 🛠️ Outils utilisés
+
+* Python (Pandas, NumPy)
+* Matplotlib / Seaborn
+* Google Colab
+* Power BI
+* CSV / Base de données
+
+---
+
+ 📈 Résultats clés
+
+* Suivi précis de la consommation mensuelle
+* Identification des périodes de forte consommation
+* Analyse des tendances des prix du carburant
+* Aide à la prise de décision stratégique
+
+---
+
+## 📊 Visualisation Power BI
+
+Le rapport Power BI inclut :
+
+* Consommation de carburant par mois
+* Chiffre d’affaires annuel en carburant
+* Dashboard interactif
+
+---
+
+ 🔗 Accès au projet
+
+👉 Notebook Google Colab :
+https://colab.research.google.com/drive/15DdxUPMsln_BcCoH4xQyd1tJKxH7CeDR
+
+---
+
+ 🚀 Compétences démontrées
+
+* Data Cleaning
+* Analyse exploratoire (EDA)
+* Data Visualisation
+* Modélisation de données
+* Analyse temporelle
+
+---
+
+## 👩‍💻 Auteur
+
+Mme NYAKE Esther 
+Data Analyst
